@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BlogPost template by Adobe Dreamweaver CC</title>
+<link href="file:///C|/Users/Ellen/AppData/Roaming/Adobe/Dreamweaver CC 2018/pt_BR/Configuration/Temp/Assets/eam455C.tmp/BlogPostAssets/styles/blogPostStyle.css" rel="stylesheet" type="text/css">
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.--><script>var __adobewebfontsappname__="dreamweaver"</script><script src="http://use.edgefonts.net/montserrat:n4:default;source-sans-pro:n2:default.js" type="text/javascript"></script>
+</head>
+
+<body>
+<div id="mainwrapper">
+<header> 
+  <div id="logo" ><img src="file:///C|/Users/Ellen/Desktop/java.png" width="35"/></div>
+    <nav> <a href="#" title="Link">Sobre</a> <a href="#" title="Link">História</a><a href="#" title="Link">Função</a> </nav>
+</header>
+  <div id="content">
+    <div class="notOnDesktop">
+		<input type="text" placeholder="Search">
+</div>
+<section id="mainContent">
+		<h1><strong>A plataforma Java</strong></h1>
+      <div id="bannerImage"><img src="file:///C|/Users/Ellen/Desktop/programacao.png" alt=""/></div>
+      <p>Você já deve ter ouvido falar que Java é tanto uma linguagem quanto uma plataforma. Isso quer dizer que, além da linguagem, o programador Java também conta com um conjunto de APIs que facilitam o desenvolvimento ao oferecerem soluções para situações comuns de desenvolvimento. Confira como a plataforma Java foi organizada para atender as necessidades de diferentes tipos de aplicações:</p>
+		<p><li>Java SE: Representa a base do Java, sendo composta pelas APIs e bibliotecas básicas para possibilitar o desenvolvimento de aplicativos de linha de comando e desktop. Já ouviu falar em Swing? Sim, ele faz parte do Java SE (Java Standard Edition);</li></p>
+		<p><li>Java ME: A Java Micro Edition é a plataforma voltada para dispositivos móveis e embarcados, com capacidade de processamento reduzida, como os utilizados na criação de produtos para a Internet das Coisas;</li></p>
+		<p><li>Java EE: Voltada para o desenvolvimento de soluções web e corporativas, a Java Enterprise Edition é uma especificação que agrupa outras, sendo, por isso, conhecida como especificação “guarda-chuva”.</li></p>
+      <h1>Primeiros passos no Java</h1>
+	  <p>Assim como em qualquer outra linguagem, no Java você encontrará tópicos de conhecimento fundamental. Dominá-los permite programar um código mais limpo e fácil de ser compreendido.Diferente de outras linguagens, no Java o seu primeiro código será escrito dentro de um método de uma classe.</p>
+	<h1 color="black">Strings</h1>
+		<p>A manipulação de texto é algo bastante comum no desenvolvimento de aplicações. Em Java, a estrutura principal para isso é a classe String, que nos fornece vários métodos para sua manipulação.</p>
+      <aside id="authorInfo"> 
+        <h2>Sobre o trabalho:</h2>
+        <p>Este site é sobre liguagem java e afins,foi desenvolvido usando oque foi aprendido sobre HTML na aula de FWII dada pelo professor Alex.</p>
+      </aside>
+</section>
+<section>
+  <div id="adimage"></div>
+      <nav> </nav>
+</section>
+<footer> 
+<article>
+		  <h3>Ellen Dias</h3>
+		  <p>Turma:250</p>
+			<p>Numero:07</p>
+</article>
+		<article align="left">
+		  <h3>Andre dos Reis</h3>
+		  <p>Turma:250</p>
+		  <p>Numero:02</p>
+		</article>
+      <article>
+<h3>Filipe Miranda</h3>
+        <p>Turma:250</p>
+<p>Numero:08</p>
+</footer>
+  </div>
+<div id="footerbar"> </div>
+</div>
+</body>
+</html>
